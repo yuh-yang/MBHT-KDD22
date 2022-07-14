@@ -16,3 +16,4 @@ log/
 .ipynb_checkpoints/
 *.npy
 *.pkl
+.DS_Store
