@@ -1,5 +1,5 @@
 # Saved models
-/saved*
+saved
 *.pth
 
 .vscode/
@@ -11,8 +11,10 @@ saved/
 *.lprof
 *.egg-info/
 docs/build/
-log/
+log
+log_tensorboard
 .ipynb_checkpoints/
 *.npy
 *.pkl
-.DS_Store
+*.DS_Store
+/dataset
