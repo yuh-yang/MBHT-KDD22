@@ -1,5 +1,5 @@
 ## MBHT
-This is our implementation for our paper **HMulti-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation**, accepted by *KDD'22*.
+This is our implementation for our paper **Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation**, accepted by *KDD'22*.
 
 ## Requirements
 The code is built on Pytorch and the [RecBole](https://github.com/RUCAIBox/RecBole) benchmark library. Run the following code to satisfy the requeiremnts by pip:
