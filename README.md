@@ -19,4 +19,5 @@ https://drive.google.com/file/d/1OFT_5Xp_az-GSHIl7QEPB9zhulbooLzE/view?usp=shari
 
 ## Tips
 - Note that we modified the evaluation sampling setting in `recbole/sampler/sampler.py` to make it static.
-- The model code is at `recbole/model/sequential_recommender/mbht.py`
+- The model code is at `recbole/model/sequential_recommender/mbht.py`.
+- Feel free to explore other baseline models provided by the RecBole library and directly run them to compare the performances.
